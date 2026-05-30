@@ -1,5 +1,8 @@
 This folder contains project screenshots:
 
+<img width="1331" height="531" alt="Screenshot 2026-05-30 054808" src="https://github.com/user-attachments/assets/b478ba26-6d15-4267-b844-1fa28d954677" />
+
+
 <img width="1050" height="852" alt="Screenshot 2026-05-29 031949" src="https://github.com/user-attachments/assets/e18dcb89-478d-447b-9832-ceddc8f38c1b" />
 
 <img width="1059" height="860" alt="Screenshot 2026-05-29 032004" src="https://github.com/user-attachments/assets/bc6632b8-f8c0-4724-8377-018d10ef6ceb" />
